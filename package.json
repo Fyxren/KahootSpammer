@@ -1,0 +1,13 @@
+{
+  "name": "KahootSpammer",
+  "version": "2.0.0",
+  "description": "Spam Kahoots with this little CLI tool!",
+  "main": "index.js",
+  "repository": "https://github.com/Exstare/KahootSpammer",
+  "author": "Exstare",
+  "license": "MIT",
+  "dependencies": {
+    "kahoot-spam": "^1.1.8",
+    "prompts": "^2.4.2"
+  }
+}
