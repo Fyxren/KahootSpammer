@@ -11,6 +11,10 @@ I tried something different and stumbed upon this package: `kahoot-spam`. This g
 
 ## Important info
 There are some issues, which I'm not able to resolve. For instance, it doesn't always spam the right amount of bots. The most I got out of it was a 1000, but it is not that reliable. Expect to have less than the requested amount. I suggest about 500. If something goes wrong, you will recieve an error.
+#### TL;DR
+- Except less 'users' than the amount you put in
+- I suggest about 500 'users'
+- It's not 100% reliable
 
 > 📢 If you know how to improve the code or fix this issues, go ahead 🙃
 
